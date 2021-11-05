@@ -1,2 +1,3 @@
 # hello-world
-A Repo for sample code
+
+A Repo for code snipets and POCs
